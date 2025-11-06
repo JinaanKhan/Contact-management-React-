@@ -1,0 +1,29 @@
+# Node modules (don’t push)
+node_modules/
+contact-app/node_modules/
+server-api/node_modules/
+
+# Build or dist folders
+contact-app/build/
+contact-app/dist/
+server-api/dist/
+
+# Environment files (private keys, DB credentials)
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional editor settings
+.vscode/
+.idea/

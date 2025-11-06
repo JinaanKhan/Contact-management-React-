@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": "5b3473b5-9bc2-4af0-807b-37c168aaa453",
+      "name": "jinaan khan",
+      "email": "jinaankhan30@gmail.com"
+    },
+    {
+      "id": "956feeb4-ba0a-4202-94c6-eab9254a00c9",
+      "name": "abc khan",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "9380d440-12f7-46e7-a5de-86f70ac99909",
+      "name": "aiman",
+      "email": "aiman@gmail.com"
+    },
+    {
+      "id": "58f32be3-69c1-4a53-b344-c7534ac7b4bc",
+      "name": "xyz",
+      "email": "xyz@gmail.com"
+    },
+    {
+      "id": "f236cc03-2547-452b-8121-8f60892d5ec9",
+      "name": "Khan",
+      "email": "khan@gmail.com"
+    },
+    {
+      "id": "c6a1425c-4b5f-4f08-b81c-2cdf6892c87e",
+      "name": "Kousain",
+      "email": "kousain@gmail.com"
+    },
+    {
+      "id": "22bcca72-9b5f-4bbc-82d6-f93594204bd9",
+      "name": "Amaan",
+      "email": "amaan@gmail.com"
+    },
+    {
+      "id": "5181ed31-8d5d-47c1-8442-467ec8225a1e",
+      "name": "kashish",
+      "email": "kashish@07gmail.com"
+    }
+  ]
+}
